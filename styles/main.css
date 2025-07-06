@@ -11,6 +11,11 @@ body {
     background-color: #002c47;
 }
 
+body {
+  scrollbar-color: #c3a96e #e3cfa2;
+  scrollbar-width: thin;
+}
+
 /* ##### BACKDROUND ##### */
 
 body::before,
